@@ -14,6 +14,14 @@ _The Magical 2D Map Generator_
 
 _Atlas Arcana_ is a terrain-based 2D procedural map generator built in Godot. Each map is unique, with polygonal regions rich with mountains, forests, prairies, swamps, jungles, and deserts.
 
+## HOW TO USE
+
+* Adjust the Basic and/or Advanced Generation values and hit the [Generate Map] button.
+* Use the Display Controls to alter how the map is displayed.
+* Click the Screenshot to download a PNG image of your map.
+* Click the Export Map button to download a text file containing data about your map (including polygon shapes, region information, and a 3d heightmap).
+
+
 Try it out on Itch: https://arcane-games.itch.io/atlas-arcana
 
 <footer>
