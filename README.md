@@ -37,7 +37,6 @@ Try it out on Itch: https://arcane-games.itch.io/atlas-arcana
 
 Hi, I'm Rob, an indie solo dev based out of Edmonton, Canada, focused on game design, narrative design, tool design, and programming. Arcane Games is an evening and weekend hobby for me. I enjoy the chance to tinker and contribute to the indie community, plus it's a great way for me to learn new skills and keep my old ones fresh.
 
-Follow me on reddit: [u/Consistent-Focus-120](https://www.reddit.com/user/Consistent-Focus-120/) and on itch: [arcane-games.itch.io/
-](https://arcane-games.itch.io/)
+Follow me on itch: [arcane-games.itch.io/](https://arcane-games.itch.io/)
 
 </footer>
